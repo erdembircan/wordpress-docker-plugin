@@ -7,7 +7,7 @@
     "email": "erdem.erdembircan@gmail.com",
     "url": "https://erdembircan.github.io"
   },
-  "repository": "https://github.com/erdembircan/wordpress-docker",
+  "repository": "https://github.com/erdembircan/wordpress-docker-plugin",
   "license": "AGPL-3.0-or-later",
   "keywords": ["wordpress", "docker", "wp-cli", "mariadb", "xdebug"]
 }

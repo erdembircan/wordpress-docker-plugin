@@ -1,4 +1,4 @@
-# wordpress-docker
+# wordpress-docker-plugin
 
 A Claude Code plugin that sets up a WordPress development environment using Docker with WP-CLI, MariaDB, and Xdebug.
 
